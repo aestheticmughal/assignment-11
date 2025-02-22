@@ -1,4 +1,3 @@
-import './services.css';
 import Hservices from "./serviceshead"
 import Develop from './development';
 import Design from './designing';

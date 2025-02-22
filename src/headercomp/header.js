@@ -1,4 +1,4 @@
-import './header.css';
+
 import Nav from './nav.js';
 import Exheader from './headerex.js';
 function Header() {
